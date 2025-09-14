@@ -18,7 +18,8 @@
 ![Kousi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinapatikousalya29&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
-- 📫 Email: yourmail@example.com  
-- 💼 LinkedIn: Kousalya Pinapati 
+- 📫 Email: pinapatikousalya29@gmail.com 
+- 💼 LinkedIn:[Kousalya Pinapati](https://www.linkedin.com/in/kousalya-pinapati)
+- 🐙 GitHub: [pinapatikousalya29](https://github.com/pinapatikousalya29)
 
 
